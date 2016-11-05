@@ -37,15 +37,15 @@ PocketMine-MP Alpha_1.4 API 1.11.0<br>
 #show ChatLogin prefix
 show-prefix: true
 #Register message
-register-message: "&7Type your password in chat to register"
-#Require password confirmation for registration
+register-message: "&9Wpisz hasło do chatu żeby się zarejestrować"
+#Require password confirmatiregistergistration
 password-confirm-required: true
 #Register confirmation message
-register-confirm-message: "&bRe-type your password to confirm registration"
+register-confirm-message: "&bWpisz Hasło do chatu jeszcze raz aby potwierdzić rejestracje"
 #No register permissions message
 no-register-permissions: "&cYou don't have permissions to register"
 #Login message
-login-message: "&7Type your password in chat to login"
+login-message: "§9Wpisz hasło do chatu aby się zalogować"
 #No login permissions message
 no-login-permissions: "&cYou don't have permissions to login"
 ...
